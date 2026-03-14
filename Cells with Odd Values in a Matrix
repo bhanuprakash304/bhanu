@@ -14,4 +14,4 @@ class Solution:
             for j in range(n):
                 if matrix[i][j] % 2 == 1:
                     count += 1
-        return coun
+        return count
