@@ -7,4 +7,4 @@ class Solution:
                 even_count += 1
             else:
                 odd_count += 1
-        return min(even_count, odd_count
+        return min(even_count, odd_count)
